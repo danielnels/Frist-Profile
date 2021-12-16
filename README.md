@@ -34,6 +34,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following screen-shot shows the web application's appearance and functionality:
 
+![image](https://user-images.githubusercontent.com/94213022/146344362-e00edc9c-1227-45db-9714-cea2cfbd1688.png)
+
 
 
 ## Depolyed URL Link https://danielnels.github.io/Frist-Profile/
