@@ -36,5 +36,5 @@ The following animation shows the web application's appearance and functionality
 
 ![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
 
-## depolyed URL Link
-## Git Hub Repository Link
+## Depolyed URL Link https://github.com/danielnels/Frist-Profile.git
+## Git Hub Repository Link https://danielnels.github.io/Frist-Profile/
