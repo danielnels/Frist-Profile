@@ -1,5 +1,5 @@
 # Frist-Profile
-Upload of my first web profile
+Upload of my first web profile Which establishes the base for me to add to as is progress through the bootcamp. 
 ## User Story
 
 ```
@@ -32,9 +32,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following screen-shot shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+
 
 ## Depolyed URL Link https://danielnels.github.io/Frist-Profile/
 ## Git Hub Repository Link https://github.com/danielnels/Frist-Profile.git
